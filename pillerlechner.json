@@ -5,7 +5,9 @@
 			"nav-title": "Home"
 		}
 	],
-	"hero-images": {},
+	"hero-images": {
+		"hero-image": "null"
+	},
 	"hero-subtitle": "subtitle",
 	"hero-title": "title"
 }
