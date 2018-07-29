@@ -1,0 +1,11 @@
+{
+	"nav-main": [
+		{
+			"nav-link": "#",
+			"nav-title": "Home"
+		}
+	],
+	"hero-images": {},
+	"hero-subtitle": "subtitle",
+	"hero-title": "title"
+}
