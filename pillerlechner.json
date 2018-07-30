@@ -3,6 +3,9 @@
 		{
 			"nav-link": "#",
 			"nav-title": "Home"
+		},
+		{
+			"nav-title": "Team"
 		}
 	],
 	"hero-images": {
